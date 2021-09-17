@@ -17,6 +17,9 @@ Decison trees alloww to better visualize the results by feature importance.
 
 The most important features  is "worst radius"
 
+![download](https://user-images.githubusercontent.com/53411455/133853255-8993cb03-678f-4a18-9b45-77e98be5a091.png)
+
+
 # Conclusion
 
 Decision trees have 2 advatages: 1) the model can be easily vusualized and understood 2) no need for data scaling or preprocessing

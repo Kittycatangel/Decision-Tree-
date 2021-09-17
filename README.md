@@ -1,5 +1,8 @@
 # Decision Trees (Supervised Learning)
 
+![image](https://user-images.githubusercontent.com/53411455/133853776-338fe0a7-2091-4cca-bc83-7e0aaf5ee213.png)
+
+
 # Goal
 
 Explore the power of decision tree  models
